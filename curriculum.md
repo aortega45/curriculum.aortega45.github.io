@@ -103,6 +103,10 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ---
 
+![imatge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kingdom_Hearts_logo.svg/1659px-Kingdom_Hearts_logo.svg.png)
+
+---
+
 [Tornar al Principi](#sobre-mi)
 
 ---
