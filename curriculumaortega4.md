@@ -106,21 +106,3 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 [Tornar al Principi](#sobre-mi)
 
 ---
-
-
-```json
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.1734, 41.3851]
-      },
-      "properties": {
-        "name": "Barcelona"
-      }
-    }
-  ]
-}
