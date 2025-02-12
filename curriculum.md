@@ -1,7 +1,5 @@
 # **ALEX ORTEGA PEDREGOSA**
 
-![imatge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kingdom_Hearts_logo.svg/1659px-Kingdom_Hearts_logo.svg.png)
-
 ## **Sobre mi**
 Apassionat per les tecnologies de la informació, amb experiència en desenvolupament i resolució de problemes tècnics. Amb ganes de continuar creixent en el sector tecnològic.
 
