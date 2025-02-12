@@ -15,7 +15,6 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ### **Tècnic de Suport Help Desk**  
 📍 *MIPS Fundació Privada | Octubre 2024 - Actualitat*  
-```json
 {
   "type": "FeatureCollection",
   "features": [
