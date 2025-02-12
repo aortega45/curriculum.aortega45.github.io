@@ -86,32 +86,8 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ---
 
-## **Codi**
-Codi en línia: `print("Hola, món!")`
-
-Bloc de codi formatat:
-```python
-def salut():
-    print("Hola, món!")
-```
-
----
-
-## **Taula de Competències**
-| Competència       | Nivell  |
-|------------------|---------|
-| Resolució de problemes | 95% |
-| Treball en equip | 82% |
-
----
-
 ## **Enllaços Interns**
-[Tornar a Sobre mi](#sobre-mi)
-
----
-
-## **Emojis**
-:computer: :rocket: :speech_balloon:
+[Tornar al Principi](#sobre-mi)
 
 ---
 
