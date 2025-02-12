@@ -12,7 +12,7 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 ---
 
 ## **Experiència Professional**
-
+> "L'única manera de fer una gran feina és estimar el que fas." - Steve Jobs
 ### **Tècnic de Suport Help Desk**  
 📍 *MIPS Fundació Privada | Octubre 2024 - Actualitat*  
 
@@ -101,11 +101,6 @@ def salut():
 |------------------|---------|
 | Resolució de problemes | 95% |
 | Treball en equip | 82% |
-
----
-
-## **Citació**
-> "L'única manera de fer una gran feina és estimar el que fas." - Steve Jobs
 
 ---
 
