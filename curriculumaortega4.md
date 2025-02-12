@@ -1,5 +1,7 @@
 # **ALEX ORTEGA PEDREGOSA**
+
 [imatge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kingdom_Hearts_logo.svg/1659px-Kingdom_Hearts_logo.svg.png)
+
 ## **Sobre mi**
 Apassionat per les tecnologies de la informació, amb experiència en desenvolupament i resolució de problemes tècnics. Amb ganes de continuar creixent en el sector tecnològic.
 
@@ -12,7 +14,7 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 ## **Experiència Professional**
 
 ### **Tècnic de Suport Help Desk**  
-📍 *MIPS Fundació Privada | Octubre 2024 - Actualitat* 
+📍 *MIPS Fundació Privada | Octubre 2024 - Actualitat*  
 
 [www.mipsfundacio.com](https://www.mipsfundacio.com/)
 - Suport a l'usuari
@@ -44,6 +46,13 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
        print("Hola, món!")
    ```
    - C (35%)
+   ```c
+   #include <stdio.h>
+   int main() {
+       printf("Hola, món!\n");
+       return 0;
+   }
+   ```
 2. **Administració de Sistemes:**
    - Windows (88%)
    - Linux (64%)
@@ -57,10 +66,12 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 ---
 
 ## **Idiomes**
-- **Català** (*Natiu*)
-- **Castellà** (*Natiu*)
-- **Anglès** (*Intermedi*)
-- **Alemany** (*Bàsic*)
+| Idioma   | Nivell   |
+|----------|---------|
+| Català   | Natiu   |
+| Castellà | Natiu   |
+| Anglès   | Intermedi |
+| Alemany  | Bàsic   |
 
 ---
 
@@ -125,4 +136,3 @@ def salut():
     }
   ]
 }
-```
