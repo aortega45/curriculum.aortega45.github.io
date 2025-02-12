@@ -86,12 +86,11 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ---
 
-## **Enllaços Interns**
 [Tornar al Principi](#sobre-mi)
 
 ---
 
-## **GeoJSON**
+
 ```json
 {
   "type": "FeatureCollection",
