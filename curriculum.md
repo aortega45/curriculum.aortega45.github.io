@@ -42,10 +42,10 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 ---
 
 ## **Idiomes**
-- 1.Català (*Natiu*)
-- 2.Castellà (*Natiu*)
-- 3.Anglès (*Intermedi*)
-- 4.Alemany (*Bàsic*)
+1.Català (*Natiu*)
+2.Castellà (*Natiu*)
+3.Anglès (*Intermedi*)
+4.Alemany (*Bàsic*)
 
 ---
 
