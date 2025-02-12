@@ -1,5 +1,5 @@
 # **ALEX ORTEGA PEDREGOSA**
-(https://insmilaifontanals.ieduca.com/scripts/imatge_perfil.php)
+https://25.media.tumblr.com/tumblr_m8nrrb2bd31r37powo1_250.png
 ## **Sobre mi**
 Apassionat per les tecnologies de la informació, amb experiència en desenvolupament i resolució de problemes tècnics. Amb ganes de continuar creixent en el sector tecnològic.
 
