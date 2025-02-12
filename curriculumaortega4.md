@@ -1,5 +1,5 @@
 # **ALEX ORTEGA PEDREGOSA**
-
+(https://insmilaifontanals.ieduca.com/scripts/imatge_perfil.php)
 ## **Sobre mi**
 Apassionat per les tecnologies de la informació, amb experiència en desenvolupament i resolució de problemes tècnics. Amb ganes de continuar creixent en el sector tecnològic.
 
@@ -36,7 +36,7 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ## **Habilitats Tècniques**
 1. **Programació:**
-   - Python
+   - Python (80%)
    - C (35%)
 2. **Administració de Sistemes:**
    - Windows (88%)
@@ -65,11 +65,6 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 - Capacitat d'organització i multitasca
 - Treball en equip
 - Adaptabilitat i flexibilitat
-
----
-
-## **Enllaços**
-[GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
 
