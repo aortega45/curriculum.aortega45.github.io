@@ -15,7 +15,7 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 
 ### **Tècnic de Suport Help Desk**  
 📍 *MIPS Fundació Privada | Octubre 2024 - Actualitat* 
-```json
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -24,8 +24,8 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
       "properties": {},
       "geometry": {
         "coordinates": [
-          1.6182506896338111,
-          41.58163687943721
+          1.6182733405866259,
+          41.581666994676766
         ],
         "type": "Point"
       }
