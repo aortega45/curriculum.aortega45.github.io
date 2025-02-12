@@ -37,6 +37,12 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 ## **Habilitats Tècniques**
 1. **Programació:**
    - Python (80%)
+     Codi en línia: `print("Hola, món!")`
+   Bloc de codi formatat:
+   ```python
+   def salut():
+       print("Hola, món!")
+   ```
    - C (35%)
 2. **Administració de Sistemes:**
    - Windows (88%)
@@ -65,11 +71,6 @@ Apassionat per les tecnologies de la informació, amb experiència en desenvolup
 - Capacitat d'organització i multitasca
 - Treball en equip
 - Adaptabilitat i flexibilitat
-
----
-
-## **Imatges**
-![Perfil professional](https://via.placeholder.com/150)
 
 ---
 
